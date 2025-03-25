@@ -1,0 +1,20 @@
+{
+    "1": {
+        "username": "JohnDoe",
+        "email": "john@example.com",
+        "phone": "123-456-7890",
+        "address": "123 Cyber Street, NY, USA",
+        "ssn": "123-45-6789",
+        "dob": "1990-05-15",
+        "occupation": "Cybersecurity Analyst"
+    },
+    "2": {
+        "username": "JaneSmith",
+        "email": "jane@example.com",
+        "phone": "987-654-3210",
+        "address": "456 Hacker Lane, LA, USA",
+        "ssn": "987-65-4321",
+        "dob": "1992-08-22",
+        "occupation": "Penetration Tester"
+    }
+}
